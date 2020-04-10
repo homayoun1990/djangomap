@@ -1,10 +1,10 @@
 # DjangoMap: An interactive map using django web framework and openlayer js package!
-##Use Django to build a simple web application from scratch
+## Use Django to build a simple web application from scratch
 
 
-+ Clone the project:
++Clone the project:
 
-+ Creating a Virtual Environment:
++Creating a Virtual Environment:
 -A virtual environment allows you to create an isolated environment for the dependencies of your current project. This will allow you to avoid conflicts between the same packages that have different versions.
 
 + Installing Dependencies
